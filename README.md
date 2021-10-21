@@ -6,6 +6,6 @@
 
 <h3>Find me elsewhere 🌎 </h3>
 🚀 Site <br/>
-🐦 Twitter <br/>
+<a href="https://twitter.com/iamdevmarcos/" target="_blank">🐦 Twitter <a/><br/>
 <a href="https://www.instagram.com/imarcos.andre/" target="_blank">📸 Instagram </a><br/>
 💼 LinkedIn
