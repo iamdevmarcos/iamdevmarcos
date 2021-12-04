@@ -1,6 +1,6 @@
 <h3>Hey, I'm Marcos! 👋</h3>
 ⚡ Full Stack Developer <br/>
-⚛ Javascript • React • Node.js • React Native <br/>
+⚛ Javascript • React • Node.js <br/>
 🇧🇷 Apaixonado por programação <br/>
 🇺🇸 Passionate about programming <br/>
 
