@@ -1,8 +1,8 @@
 <h3>Hey, I'm Marcos! 👋</h3>
 ⚡ Full Stack Developer <br/>
 ⚛ Javascript • React • Node.js <br/>
-🇧🇷 Apaixonado por programação <br/>
-🇺🇸 Passionate about programming <br/>
+🇧🇷 Eu resolvo problemas com meu conhecimento <br/>
+🇺🇸 I solve problems with my knowledge <br/>
 
 <h3>Find me elsewhere 🌎 </h3>
 🚀 Site (coming soon)<br/>
