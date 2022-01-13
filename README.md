@@ -6,6 +6,6 @@
 
 <h3>Find me elsewhere 🌎 </h3>
 🚀 Site (coming soon)<br/>
-<a href="https://twitter.com/iamdevmarcos/" target="_blank">🐦 Twitter <a/><br/>
+<a href="https://www.behance.net/imarcos_andre" target="_blank">🖥 Behance <a/><br/>
 <a href="https://www.instagram.com/imarcos.andre/" target="_blank">📸 Instagram </a><br/>
 💼 LinkedIn (coming soon)
