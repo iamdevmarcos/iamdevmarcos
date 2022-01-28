@@ -8,4 +8,4 @@
 🚀 Site (coming soon)<br/>
 <a href="https://medium.com/@marcosdev" target="_blank">✍️ Medium <a/><br/>
 <a href="https://www.instagram.com/imarcos.andre/" target="_blank">📸 Instagram </a><br/>
-💼 LinkedIn (coming soon)
+<a href="https://www.linkedin.com/in/iamdevmarcos/" target="_blank">💼 LinkedIn</a>
