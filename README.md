@@ -1,8 +1,8 @@
 <h3>Hey, I'm Marcos! 👋</h3>
 ⚡ Full Stack Developer <br/>
 ⚛ Javascript • React • Node.js <br/>
-🇧🇷 Construindo ótimos produtos e impactando vidas. <br/>
-🇺🇸 Building great products and impacting lives. <br/>
+🇧🇷 Especializado em fornecer soluções Front-end de alta qualidade. <br/>
+🇺🇸 Specialized in providing high quality Front-end solutions. <br/>
 
 <h3>Find me elsewhere 🌎 </h3>
 <a href="https://www.marcosdev.me/" target="_blank">🚀 Site</a><br/>
