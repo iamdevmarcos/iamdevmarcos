@@ -1,5 +1,5 @@
 <h3>Hey, I'm Marcos! 👋</h3>
-⚡ Full Stack Developer <br/>
+⚡ Frontend Engineer <br/>
 ⚛ Javascript • React • Node.js <br/>
 🇧🇷 Especializado em fornecer soluções Front-end de alta qualidade. <br/>
 🇺🇸 I'm specialize in providing high quality Front-end solutions. <br/>
