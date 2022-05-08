@@ -6,7 +6,7 @@
 🇺🇸 I'm specialize in providing high quality Front-end solutions. <br/>
 
 ### Current interest 💭
-⚡ Cypress, Redux Sagas, GraphQL
+⚡ Cypress • Redux Sagas • GraphQL
 
 ### Find me elsewhere 🌎
 
