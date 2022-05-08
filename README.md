@@ -6,9 +6,9 @@
 🇺🇸 I'm specialize in providing high quality Front-end solutions. <br/>
 
 ### Current interest 💭
-🃏 Cypress
-⚛️ Redux Sagas
-GraphQL
+🃏 Cypress <br/>
+⚛️ Redux Sagas <br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="30px"> GraphQL
 
 ### Find me elsewhere 🌎
 
