@@ -5,6 +5,9 @@
 🇧🇷 Especializado em fornecer soluções Front-end de alta qualidade. <br/>
 🇺🇸 I'm specialize in providing high quality Front-end solutions. <br/>
 
+### Current interest 💭
+⚡ Cypress, Redux Sagas, GraphQL
+
 ### Find me elsewhere 🌎
 
 <a href="https://www.marcosdev.me/">🚀 Site</a><br/>
