@@ -12,6 +12,7 @@
 
 ### Find me elsewhere 🌎
 
+<a href="https://dev.to/iamdevmarcos">📕 Dev.to</a><br/>
 <a href="https://www.marcosdev.me/">🚀 Site</a><br/>
 <a href="https://www.instagram.com/imarcos.andre/">📸 Instagram</a><br/>
 <a href="https://www.linkedin.com/in/iamdevmarcos/">💼 LinkedIn</a>
