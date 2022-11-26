@@ -13,6 +13,5 @@
 ### Find me elsewhere 🌎
 
 <a href="https://www.tabnews.com.br/marcosmendes">📕 TabNews</a><br/>
-<a href="https://dev.to/iamdevmarcos">📕 Dev.to</a><br/>
-<a href="https://www.marcosdev.me/">🚀 Site</a><br/>
+<a href="https://marcosmendes.vercel.app">🚀 Site</a><br/>
 <a href="https://www.linkedin.com/in/iamdevmarcos/">💼 LinkedIn</a>
