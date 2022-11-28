@@ -15,3 +15,7 @@
 <a href="https://www.tabnews.com.br/marcosmendes">📕 TabNews</a><br/>
 <a href="https://marcosmendes.vercel.app">🚀 Site</a><br/>
 <a href="https://www.linkedin.com/in/iamdevmarcos/">💼 LinkedIn</a>
+
+### Daily Dev
+
+<a href="https://app.daily.dev/marcosmendes"><img src="https://api.daily.dev/devcards/77e3f0691e1a4a4dba0fd2eea79a85fc.png?r=5dk" width="400" alt="Marcos Mendes's Dev Card"/></a>
