@@ -7,7 +7,6 @@
 
 ### Current interest 💭
 🃏 Test-driven development <br/>
-<img src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" width="15px"> Redux Sagas <br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="15px"> GraphQL
 
 ### Find me elsewhere 🌎
