@@ -9,7 +9,7 @@
 
 💻 I am enthusiastic about Software Testing and Quality Deliveries.
 
-💭 I'm a great team player and communicator, i love challenges and problem <br/>solving, thinking analytically and valuing code quality and user experience. 
+💭 I'm a great team player and communicator, I love challenges and problem <br/>solving, thinking analytically and valuing code quality and user experience. 
 
 ### Current interest 💭
 🃏 Test-driven development <br/>
