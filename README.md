@@ -12,8 +12,8 @@
 💭 I'm a great team player and communicator, I love challenges and problem <br/>solving, thinking analytically and valuing code quality and user experience. 
 
 ### Current interest 💭
-🃏 Test-driven development <br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="15px"> GraphQL
+Swift <br/>
+JavaScript Engine
 
 ### Find me elsewhere 🌎
 
