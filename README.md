@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hey, I'm Marcos! 
 
-⚡ Frontend Engineer                                                             
+⚡ Software Engineer                                                             
 ⚛ TypeScript • React • Next.js <br/>
 🇧🇷 Especializado em fornecer soluções Front-end de alta qualidade. <br/>
 🇺🇸 I'm specialize in providing high quality Front-end solutions. <br/>
