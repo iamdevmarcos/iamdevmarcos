@@ -2,17 +2,10 @@
 
 ⚡ Software Engineer                                                             
 ⚛ TypeScript • React • Next.js <br/>
-🇧🇷 Especializado em fornecer soluções Front-end de alta qualidade. <br/>
-🇺🇸 I'm specialize in providing high quality Front-end solutions. <br/>
-
-### About me 👨🏻‍💻
-
-💻 I am enthusiastic about Software Testing and Quality Deliveries.
-
-💭 I'm a great team player and communicator, I love challenges and problem <br/>solving, thinking analytically and valuing code quality and user experience. 
+🇺🇸 I'm specialize in providing high quality Front-end solutions. <br/> 
 
 ### Current interest 💭
-Swift <br/>
+iOS Development <br/>
 JavaScript Engine
 
 ### Find me elsewhere 🌎
